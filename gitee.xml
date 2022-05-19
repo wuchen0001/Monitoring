@@ -1,0 +1,7 @@
+<application>
+  <component name="GiteeAccounts">
+    <account id="7b9c3bcf-16cc-4d67-8525-e5228496b722" name="welink@hnu.edu.cn">
+      <Server host="gitee.com" />
+    </account>
+  </component>
+</application>
